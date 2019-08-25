@@ -390,13 +390,14 @@
   title: Member
   desc: I'm a 3rd year B.Tech CSE student.<br> I have some exposure to android app developement,web developement and PHP.<br> I am currently working on a tourism app, web-designing and attendance management system. You can check the status of my projects on my GitHub profile.
   stack: 
-    - Java
-    - C
-    - PHP
-    - MySql
     - Android App Developement
+    - Web Developement
+    - PHP
+    - Java
+    - RDBMS
   social-links:
     github: https://github.com/Parag357
+    linkedin: https://www.linkedin.com/in/parag-bhattacharjee-905196179/
   img: https://avatars0.githubusercontent.com/u/42310311?s=400&v=4
 
 - category: Member
